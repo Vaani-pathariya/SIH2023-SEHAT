@@ -37,8 +37,8 @@ SEHAT leverages machine learning models deployed on kiosk machines, addressing h
 
 | S.No. | Link | Purpose |
 | --------------- | --------------- | --------------- |
-| 1. | [master](https://github.com/Vaani-pathariya/SIH2023-SEHAT.git/frontend) | contains the frontend code  |
-| 2. | [backend](https://github.com/Vaani-pathariya/SIH2023-SEHAT.git/backend) | contains all backend code |
+| 1. | [Frontend](https://github.com/Vaani-pathariya/SIH2023-SEHAT.git/frontend) | contains the frontend code  |
+| 2. | [Backend](https://github.com/Vaani-pathariya/SIH2023-SEHAT.git/backend) | contains all backend code |
 
 ## Get Started
 ### Steps for Reviewing
